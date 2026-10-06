@@ -1,0 +1,6 @@
+{
+  "name": "Connectly - Social Media Platform",
+  "description": "Connectly is a full-stack social media platform featuring user profiles, dynamic feed, posts, comments, likes, follower system, and JWT authentication built for CodeAlpha Task 2.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
